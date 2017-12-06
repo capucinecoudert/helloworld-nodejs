@@ -1,0 +1,22 @@
+{
+  "name": "helloworld-nodejs",
+  "version": "1.0.0",
+  "description": "This is my readme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capucinecoudert/helloworld-nodejs.git"
+  },
+  "author": "Capucine Coudert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capucinecoudert/helloworld-nodejs/issues"
+  },
+  "homepage": "https://github.com/capucinecoudert/helloworld-nodejs#readme",
+  "engines": {
+  "node": ">=4.2.4"
+  },
+}
