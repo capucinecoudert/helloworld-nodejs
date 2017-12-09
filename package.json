@@ -18,8 +18,5 @@
   "homepage": "https://github.com/capucinecoudert/helloworld-nodejs#readme",
   "engines": {
     "node": ">=4.2.4"
-  },
-  "devDependencies": {
-    "node-readme": "^0.1.9"
   }
 }
