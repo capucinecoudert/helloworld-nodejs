@@ -5,11 +5,11 @@ A small module that displays "Hello World" in your console.
 
 ## Installation
 
-  `npm install @capucinecoudert/helloworld-nodejs`
+  `npm install helloworld-nodejs`
 
 ## Usage
 
-    var helloWorld = require('@capucinecoudert/helloworld-nodejs');
+    var helloWorld = require('helloworld-nodejs');
 
     helloWorld();
   
@@ -21,7 +21,4 @@ A small module that displays "Hello World" in your console.
 
   `npm test`
 
-## Contributing
-
-In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 

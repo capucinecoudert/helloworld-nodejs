@@ -1,10 +1,10 @@
 {
   "name": "helloworld-nodejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is my Hello World.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "homepage": "https://github.com/capucinecoudert/helloworld-nodejs#readme",
   "engines": {
     "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "mocha-sinon": "^2.0.0",
+    "sinon": "^4.1.3"
   }
 }
